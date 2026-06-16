@@ -36,3 +36,13 @@ p {
     border-radius: 4px;
     margin-top: 10px;
 }
+
+.bloquinho {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(1, 1, 1, 1.1);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: center; /* 👈 Adicione esta linha */
+}
